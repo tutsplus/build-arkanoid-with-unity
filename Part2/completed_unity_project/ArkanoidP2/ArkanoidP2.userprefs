@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ArkanoidP3/Assets/Scripts/PlayerScript.cs">
+    <Files>
+      <File FileName="../ArkanoidP3/Assets/Scripts/PlayerScript.cs" Line="52" Column="99" />
+      <File FileName="../ArkanoidP3/Assets/Scripts/BlockScript.cs" Line="28" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
